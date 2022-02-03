@@ -1,5 +1,11 @@
 # Orientação a Objetos Com JavaScript
 
-## Neste foi aborado os pilares da OOJS
+## Neste projeto foi aborado os pilares da OOJS"."
 
-### 
+### Polimorfismo
+
+### Herança
+
+### Encapsulamento
+
+### Abstração
